@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-<<<<<<< HEAD
-=======
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
->>>>>>> 45df499 (glowny)
-    <mapping directory="$PROJECT_DIR$/flask/kodilla/modul_7/formularz" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/kopia_projeku" vcs="Git" />
   </component>
 </project>
