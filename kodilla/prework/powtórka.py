@@ -26,3 +26,4 @@ zolw.color('black')
 for i in range(3):
     zolw.forward(200)
     zolw.left(120)
+turtle.exitonclick()
